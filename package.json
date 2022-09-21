@@ -1,0 +1,14 @@
+{
+  "name": "testes-automatizados---nucleus-eti",
+  "version": "1.0.0",
+  "description": "Testes Automatizados Nucleus ETI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Joao Matos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
